@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+* {
+    scrollbar-width:thin; /* "auto" or "thin" options */
+    scrollbar-color: #666 #eee; /* scrollbar color */
+}
+
+}
+
+
