@@ -54,14 +54,6 @@ To run test this locally, you will need:
 
 Once the development server is running, you can test out the comment section by navigating to `http://localhost:3000` in your browser. The interface will allow you to write comments and upload along with username and user image.
 
-### File Structure
-
-- **public/**: Contains the public assets and the `index.html` file.
-- **src/**: Contains the source code for the React application.
-  - **components/**: Contains the React components.
-  - **styles/**: Contains the Tailwind CSS configuration and additional styles.
-  - **App.js**: The main application component.
-  - **index.js**: The entry point for the React application.
 
 ## Contributing
 
